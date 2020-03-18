@@ -5,12 +5,12 @@
 The fast and easy way to use this example is via
 [StackBlitz](https://stackblitz.io/):
 
-**[StackBlitz for injecting-custom-services](https://stackblitz.io/github/AngularBootCamp/injecting-custom-services)**
+**[StackBlitz for injecting-custom-services](https://stackblitz.com/github/CSE-DEV-0128/CSE-Angular_Training_301)**
 
 Alternatively, you can clone the repository locally to run the example:
 
 ```
-git clone git@github.com:AngularBootCamp/injecting-custom-services.git
+git clone https://bitbucket.csesoftware.com/scm/cat/301-injecting-custom-services.git
 cd 301-injecting-custom-services
 npm install
 npm start
