@@ -1,4 +1,4 @@
-# Angular Boot Camp example: injecting-custom-services
+# Angular Training example: injecting-custom-services
 
 ## Run and edit this example code
 
@@ -11,7 +11,7 @@ Alternatively, you can clone the repository locally to run the example:
 
 ```
 git clone git@github.com:AngularBootCamp/injecting-custom-services.git
-cd injecting-custom-services
+cd 301-injecting-custom-services
 npm install
 npm start
 ```
